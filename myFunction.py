@@ -1,6 +1,8 @@
+# -*- coding: utf8 -*-
 # 自作関数モジュール
 import sys, os
 import csv
+
 
 # import importXMLV03 #親pyファイル名def CSVExport():
 iDir = os.path.abspath(os.path.dirname(sys.argv[0]))
